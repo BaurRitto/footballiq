@@ -108,7 +108,7 @@ Events are ordered by match clock. Summary statistics can be calculated with `su
 ## Phase 1 checklist
 
 - [ ] Register on the hackathon website and check the official rules
-- [ ] Create a new public GitHub repository `footballiq` (avoid uploading credentials)
+- [x] Publish the public [footballiq repository](https://github.com/BaurRitto/footballiq)
 - [x] Initialize Python project
 - [x] Define event contract
 - [x] Build seeded synthetic event generator
